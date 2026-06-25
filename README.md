@@ -8,13 +8,10 @@
 
 | | |
 |---|---|
-| **Nama Mahasiswa** | *(Nama Anda)* |
-| **NIM** | *(NIM Anda)* |
+| **Nama Mahasiswa** | *Akhmad Dany* |
 | **Tempat Magang** | PT Japfa Comfeed Indonesia Tbk |
 | **Lokasi** | Sidoarjo, Jawa Timur |
-| **Periode Magang** | 2024 |
 | **Mata Kuliah Konversi** | Analisis Time Series |
-| **Dosen Pengampu** | *(Nama Dosen)* |
 
 ---
 
