@@ -1,18 +1,10 @@
-# LAPORAN TUGAS MANDIRI MAGANG
+# LAPORAN PROYEK MANDIRI MAGANG
 ## Analisis Deret Waktu (Time Series) Data Overtime Karyawan
-### PT Japfa Comfeed Indonesia Tbk — Divisi Sumber Daya Manusia
-
----
-
-> **Disusun sebagai Pemenuhan Konversi Mata Kuliah: Analisis Time Series**
 
 | | |
 |---|---|
 | **Nama Mahasiswa** | *Akhmad Dany* |
 | **Tempat Magang** | PT Japfa Comfeed Indonesia Tbk |
-| **Lokasi** | Sidoarjo, Jawa Timur |
-| **Mata Kuliah Konversi** | Analisis Time Series |
-
 ---
 
 ## BAB I — PENDAHULUAN
